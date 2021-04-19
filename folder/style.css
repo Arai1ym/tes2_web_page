@@ -1,0 +1,115 @@
+.top-container{
+  height: 145px;
+  width: 200px;
+  background-color: aqua;
+  color: orange;
+  border-style: solid;
+  margin: 40px;
+  position:relative;
+  left:30px;
+}
+.middle-container{
+  height: 149px;
+  width: 187px;
+  background-color: aqua;
+  color: orange;
+  border-style: solid;
+  margin: 40px;
+  position:relative;
+  left: 300px;
+  bottom: 195px;
+}
+.bottom-container{
+  height: 141px;
+  width: 188px;
+  background-color: aqua;
+  color: orange;
+  border-style: solid;
+  margin: 40px;
+  position:relative;
+  left:570px;
+  bottom:390px;
+
+}
+.space{
+   border: 1px outset black;
+}
+
+.ll{
+  display: block;
+}
+
+.sp{
+  border: 1px;
+}
+.dd{
+  float: left;
+}
+
+.cc{
+  float: left;
+  clear: left;
+}
+
+.ola{
+  height: 145px;
+  width: 193px;
+  background-color: #ffdcdc;
+  color: orange;
+  position:absolute;
+  top: 1750px;
+  left:30px;
+border-style: solid;
+border-color: #ff9292;
+
+}
+
+.hola{
+  height: 145px;
+  width: 188px;
+  background-color: #ffdcdc;
+  color: orange;
+  position:absolute;
+  left:228px;
+  top: 1898px;
+border-style: solid;
+border-color: #ff9292;
+
+}
+
+.lola{
+  height: 145px;
+  width: 145px;
+  background-color: #ffdcdc;
+  color: orange;
+  position:absolute;
+  left:420px;
+  top: 2046px;
+border-style: solid;
+border-color: #ff9292;
+
+}
+
+.hr-shelf {
+	margin: -30px auto 10px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #f39189;
+	box-shadow: 0 20px 20px -20px #b67162;
+	width: 95%;
+}
+
+.fig{
+
+    background: #5f6a72;
+    padding: 10px;
+    display: block;
+    width: 180px;
+    float: left;
+    margin: 0 10px 10px 0;
+    text-align: center;
+}
+.fg{
+  color: #fff;
+}
